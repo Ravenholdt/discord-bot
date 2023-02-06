@@ -1,0 +1,3 @@
+[submodule "ravensaid"]
+	path = ravensaid
+	url = git@github.com:sidju/ravensaid.git
